@@ -15,5 +15,5 @@ This repository serves as a central hub for various courses covering a wide rang
 
 Here's a list of courses available in this repository:
 
-1. [Course Title 1](./Feature-Engineering-101/README.md): Description of Feature-Engineering-101.
+1. [Feature Engineering 101](./Feature-Engineering-101/README.md): Description of Feature Engineering 101.
    <!-- Add more courses as needed -->
