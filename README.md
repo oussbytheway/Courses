@@ -6,9 +6,6 @@ Welcome to the Courses Repository! This repository hosts a collection of courses
 
 - [About](#about)
 - [Courses](#courses)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
