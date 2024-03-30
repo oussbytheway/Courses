@@ -12,8 +12,7 @@ This course is designed to provide you with a comprehensive understanding of fea
   - AutoEncoders
   ..etc
 - Live Coding Sessions:
-  - Exploring Feature Extraction Techniques
-  - Applying Techniques to Fertility Clinic Dataset
+  - Diving deeper into 2 selected Feature Extraction Techniques by applying them to Fertility Clinic Dataset
 - Q&A Sessions
 
 ## Course Description
